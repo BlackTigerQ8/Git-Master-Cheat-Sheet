@@ -14,6 +14,7 @@ Set up your identity. You only need to do this once per machine.
 | `git config --global user.email "you@example.com"` | Set your email (must match GitHub email) |
 | `git config --list`                                | View your current configuration          |
 | `git config --global core.editor "code --wait"`    | Set VS Code as default editor            |
+| `git config --global core.editor "cursor --wait"`  | Set Cursor as default editor             |
 
 ---
 
